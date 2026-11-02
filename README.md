@@ -22,7 +22,7 @@ I constantly lose track of assignment due dates, exam dates, and personal deadli
 ## Tech Stack
 - Java
 - Built-in java.time for dates
-- Local JSON or text file for storage
+- Local text file for storage
 - No external libraries or APIs
 
 ## How to Run
