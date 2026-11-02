@@ -26,7 +26,7 @@ I constantly lose track of assignment due dates, exam dates, and personal deadli
 - No external libraries or APIs
 
 ## How to Run
-(Coming soon)
+
 
 ## Usage
-(Coming soon)
+
